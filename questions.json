@@ -1,0 +1,442 @@
+[
+  {
+    "category": "Python",
+    "question": "Which keyword is used to define a function in Python?",
+    "options": [
+      "func",
+      "define",
+      "def",
+      "function"
+    ],
+    "answer": 2
+  },
+  {
+    "category": "Python",
+    "question": "What is the output type of 3.0?",
+    "options": [
+      "int",
+      "float",
+      "str",
+      "double"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "Python",
+    "question": "Which of these data types is immutable?",
+    "options": [
+      "list",
+      "dict",
+      "set",
+      "tuple"
+    ],
+    "answer": 3
+  },
+  {
+    "category": "Python",
+    "question": "What does len([1, 2, 3]) return?",
+    "options": [
+      "3",
+      "2",
+      "4",
+      "1"
+    ],
+    "answer": 0
+  },
+  {
+    "category": "Python",
+    "question": "Which symbol starts a single-line comment in Python?",
+    "options": [
+      "#",
+      "//",
+      "/*",
+      "--"
+    ],
+    "answer": 0
+  },
+  {
+    "category": "Python",
+    "question": "What is the value of 2 ** 3?",
+    "options": [
+      "8",
+      "6",
+      "9",
+      "5"
+    ],
+    "answer": 0
+  },
+  {
+    "category": "Python",
+    "question": "Which list method adds an item at the end?",
+    "options": [
+      "add()",
+      "insert_end()",
+      "append()",
+      "push()"
+    ],
+    "answer": 2
+  },
+  {
+    "category": "Python",
+    "question": "Which module is used to generate random numbers?",
+    "options": [
+      "random",
+      "math",
+      "os",
+      "sys"
+    ],
+    "answer": 0
+  },
+  {
+    "category": "Python",
+    "question": "What is the file extension of a Python file?",
+    "options": [
+      ".pt",
+      ".py",
+      ".python",
+      ".pyt"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "Python",
+    "question": "What does 'elif' stand for?",
+    "options": [
+      "else if",
+      "end if",
+      "else loop",
+      "each if"
+    ],
+    "answer": 0
+  },
+  {
+    "category": "General Knowledge",
+    "question": "What is the capital of India?",
+    "options": [
+      "New Delhi",
+      "Mumbai",
+      "Kolkata",
+      "Chennai"
+    ],
+    "answer": 0
+  },
+  {
+    "category": "General Knowledge",
+    "question": "Which is the largest planet in our solar system?",
+    "options": [
+      "Saturn",
+      "Earth",
+      "Neptune",
+      "Jupiter"
+    ],
+    "answer": 3
+  },
+  {
+    "category": "General Knowledge",
+    "question": "Who wrote the Ramayana?",
+    "options": [
+      "Vyasa",
+      "Tulsidas",
+      "Kalidasa",
+      "Valmiki"
+    ],
+    "answer": 3
+  },
+  {
+    "category": "General Knowledge",
+    "question": "Which is the national animal of India?",
+    "options": [
+      "Tiger",
+      "Lion",
+      "Elephant",
+      "Leopard"
+    ],
+    "answer": 0
+  },
+  {
+    "category": "General Knowledge",
+    "question": "What is the currency of Japan?",
+    "options": [
+      "Won",
+      "Yen",
+      "Yuan",
+      "Dollar"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "General Knowledge",
+    "question": "How many continents are there on Earth?",
+    "options": [
+      "7",
+      "5",
+      "6",
+      "8"
+    ],
+    "answer": 0
+  },
+  {
+    "category": "General Knowledge",
+    "question": "Who was the first Prime Minister of India?",
+    "options": [
+      "Sardar Patel",
+      "Mahatma Gandhi",
+      "Lal Bahadur Shastri",
+      "Jawaharlal Nehru"
+    ],
+    "answer": 3
+  },
+  {
+    "category": "General Knowledge",
+    "question": "In which city is the Taj Mahal located?",
+    "options": [
+      "Agra",
+      "Delhi",
+      "Jaipur",
+      "Lucknow"
+    ],
+    "answer": 0
+  },
+  {
+    "category": "General Knowledge",
+    "question": "Which festival is known as the Festival of Lights?",
+    "options": [
+      "Diwali",
+      "Holi",
+      "Eid",
+      "Pongal"
+    ],
+    "answer": 0
+  },
+  {
+    "category": "General Knowledge",
+    "question": "Which is the longest river in the world (commonly accepted)?",
+    "options": [
+      "Ganga",
+      "Nile",
+      "Amazon",
+      "Yangtze"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "Science",
+    "question": "What is the chemical formula of water?",
+    "options": [
+      "H2O",
+      "CO2",
+      "O2",
+      "NaCl"
+    ],
+    "answer": 0
+  },
+  {
+    "category": "Science",
+    "question": "Which gas do plants absorb for photosynthesis?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Hydrogen",
+      "Carbon dioxide"
+    ],
+    "answer": 3
+  },
+  {
+    "category": "Science",
+    "question": "Which planet is known as the Red Planet?",
+    "options": [
+      "Mars",
+      "Venus",
+      "Mercury",
+      "Jupiter"
+    ],
+    "answer": 0
+  },
+  {
+    "category": "Science",
+    "question": "What is the SI unit of force?",
+    "options": [
+      "Joule",
+      "Newton",
+      "Watt",
+      "Pascal"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "Science",
+    "question": "What is the hardest natural substance?",
+    "options": [
+      "Diamond",
+      "Gold",
+      "Iron",
+      "Quartz"
+    ],
+    "answer": 0
+  },
+  {
+    "category": "Science",
+    "question": "How many chambers does the human heart have?",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "5"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "Science",
+    "question": "At what temperature does water boil at sea level (°C)?",
+    "options": [
+      "90",
+      "80",
+      "100",
+      "120"
+    ],
+    "answer": 2
+  },
+  {
+    "category": "Science",
+    "question": "Which pigment makes plants green?",
+    "options": [
+      "Carotene",
+      "Melanin",
+      "Hemoglobin",
+      "Chlorophyll"
+    ],
+    "answer": 3
+  },
+  {
+    "category": "Science",
+    "question": "Which vitamin do we get from sunlight?",
+    "options": [
+      "Vitamin A",
+      "Vitamin D",
+      "Vitamin C",
+      "Vitamin K"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "Science",
+    "question": "What is the chemical symbol of gold?",
+    "options": [
+      "Au",
+      "Ag",
+      "Gd",
+      "Go"
+    ],
+    "answer": 0
+  },
+  {
+    "category": "Computer Basics",
+    "question": "What does CPU stand for?",
+    "options": [
+      "Central Program Unit",
+      "Computer Processing Unit",
+      "Central Processing Unit",
+      "Control Process Unit"
+    ],
+    "answer": 2
+  },
+  {
+    "category": "Computer Basics",
+    "question": "Which memory is volatile?",
+    "options": [
+      "ROM",
+      "RAM",
+      "Hard Disk",
+      "SSD"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "Computer Basics",
+    "question": "What is HTML?",
+    "options": [
+      "A markup language",
+      "A programming language",
+      "A database",
+      "An operating system"
+    ],
+    "answer": 0
+  },
+  {
+    "category": "Computer Basics",
+    "question": "How many bits are there in one byte?",
+    "options": [
+      "4",
+      "8",
+      "16",
+      "10"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "Computer Basics",
+    "question": "Which shortcut is used to copy selected text?",
+    "options": [
+      "Ctrl + V",
+      "Ctrl + X",
+      "Ctrl + C",
+      "Ctrl + Z"
+    ],
+    "answer": 2
+  },
+  {
+    "category": "Computer Basics",
+    "question": "Which of these is an operating system?",
+    "options": [
+      "Linux",
+      "Python",
+      "Chrome",
+      "Excel"
+    ],
+    "answer": 0
+  },
+  {
+    "category": "Computer Basics",
+    "question": "What does WWW stand for?",
+    "options": [
+      "World Wide Web",
+      "World Web Wide",
+      "Wide World Web",
+      "Web World Wide"
+    ],
+    "answer": 0
+  },
+  {
+    "category": "Computer Basics",
+    "question": "Which of these is an output device?",
+    "options": [
+      "Monitor",
+      "Keyboard",
+      "Mouse",
+      "Scanner"
+    ],
+    "answer": 0
+  },
+  {
+    "category": "Computer Basics",
+    "question": "Who is known as the Father of the Computer?",
+    "options": [
+      "Alan Turing",
+      "Charles Babbage",
+      "Bill Gates",
+      "Steve Jobs"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "Computer Basics",
+    "question": "Which of these is an input device?",
+    "options": [
+      "Printer",
+      "Speaker",
+      "Monitor",
+      "Keyboard"
+    ],
+    "answer": 3
+  }
+]

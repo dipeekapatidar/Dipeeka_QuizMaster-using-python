@@ -52,4 +52,3 @@ At the top of `main.py` you can change `QUESTION_TIME`, `CORRECT_MARKS`,
 
 ## Reset Leaderboard
 Close the app and delete `quiz.db`. It is re-created on the next run.
-# Dipeeka_QuizMaster-using-python
